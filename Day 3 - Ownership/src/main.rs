@@ -1,3 +1,5 @@
+#[allow(unused_variables)]
+
 fn main() {
     /* Ownership means "Owning😋", But that is the literal meaning because when 
     a value is assigned to a variable, it owns the value. Lets say when we assign to
